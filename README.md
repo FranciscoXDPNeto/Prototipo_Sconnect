@@ -117,10 +117,8 @@ Recomenda-se utilizar apenas dados fictícios durante os testes.
 
 **Disciplina:** Práticas Extensionistas IV
 
-**Localidade de referência:** Saquarema — Rio de Janeiro
+**Localidade de referência:** Saquarema — RJ
 
 **Finalidade:** Desenvolvimento e avaliação de um protótipo digital de empregabilidade.
 
----
-
-*O Sconnect é uma proposta acadêmica de solução tecnológica e ainda não constitui uma plataforma de recrutamento em operação.*
+**Autores:**  Paulo Victor da Cunha Balthar; Francisco Xavier Duarte Pereira Neto
